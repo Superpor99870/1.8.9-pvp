@@ -39,3 +39,38 @@
 [00:54:21] [Server thread/WARN]: handleDisconnection() called twice
 [00:54:29] [Server thread/INFO]: siganconsumiendo[/172.29.56.168:50038] logged in with entity id 41559 at (-296.30000001192093, 68.0, 64.45102887846248)
 [00:54:29] [Server thread/INFO]: siganconsumiendo joined the game
+[00:56:38] [Server thread/INFO]: siganconsumiendo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:56:38] [Server thread/INFO]: siganconsumiendo left the game
+[00:57:42] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:57:50] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:59:30] [Server thread/INFO]: siganconsumiendo[/172.29.56.168:50199] logged in with entity id 51960 at (-295.3515567827183, 68.0, 62.20613410595121)
+[00:59:30] [Server thread/INFO]: siganconsumiendo joined the game
+[01:02:23] [Server thread/INFO]: siganconsumiendo has just earned the achievement [Time to Mine!]
+[01:02:23] [Server thread/INFO]: siganconsumiendo has just earned the achievement [Getting an Upgrade]
+[01:02:27] [Server thread/INFO]: Akukis hit the ground too hard
+[01:02:41] [Server thread/INFO]: [Akukis: Set own game mode to Adventure Mode]
+[01:02:45] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:03:21] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:06:07] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:06:16] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[01:07:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:07:52] [Server thread/INFO]: cuycito[/172.29.54.93:55275] logged in with entity id 67199 at (-237.5, 68.0, 24.5)
+[01:07:52] [Server thread/INFO]: cuycito joined the game
+[01:07:53] [Server thread/INFO]: cuycito has just earned the achievement [Taking Inventory]
+[01:07:59] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[01:08:12] [Server thread/INFO]: cuycito has just earned the achievement [Getting Wood]
+[01:08:40] [Server thread/INFO]: cuycito has just earned the achievement [Benchmarking]
+[01:09:04] [Server thread/INFO]: cuycito was slain by Akukis
+[01:09:52] [Server thread/INFO]: cuycito was slain by Akukis
+[01:10:17] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:10:20] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:10:47] [Server thread/INFO]: cuycito has just earned the achievement [Time to Mine!]
+[01:11:10] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:11:10] [Server thread/INFO]: siganconsumiendo has just earned the achievement [Time to Strike!]
+[01:11:22] [Server thread/INFO]: Akukis has just earned the achievement [DIAMONDS!]
+[01:11:30] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:12:37] [Server thread/INFO]: siganconsumiendo has just earned the achievement [Monster Hunter]
+[01:13:26] [Server thread/INFO]: cuycito has just earned the achievement [Hot Topic]
+[01:13:41] [Server thread/INFO]: <Akukis> -348 11 259
+[01:13:46] [Server thread/INFO]: cuycito has just earned the achievement [Getting an Upgrade]
+[01:13:47] [Server thread/INFO]: <Akukis> 269
