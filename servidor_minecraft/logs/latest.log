@@ -92,3 +92,33 @@
 [01:23:18] [Server thread/INFO]: Akukis tried to swim in lava
 [01:23:36] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
 [01:24:14] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:24:46] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:26:21] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[01:26:25] [Server thread/INFO]: siganconsumiendo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:26:25] [Server thread/INFO]: siganconsumiendo left the game
+[01:27:06] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:27:24] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:27:54] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:28:17] [Server thread/INFO]: siganconsumiendo[/172.29.56.168:50415] logged in with entity id 117617 at (-248.02226907639138, 68.0, 30.170042992258672)
+[01:28:17] [Server thread/INFO]: siganconsumiendo joined the game
+[01:28:31] [Server thread/INFO]: [Akukis: Teleported Akukis to cuycito]
+[01:29:09] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[01:29:44] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:31:32] [Server thread/INFO]: Akukis was slain by cuycito
+[01:32:17] [Server thread/INFO]: Akukis was slain by siganconsumiendo
+[01:33:25] [Server thread/INFO]: Akukis was slain by siganconsumiendo
+[01:33:44] [Server thread/INFO]: Akukis was slain by cuycito
+[01:34:47] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:34:55] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:35:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[01:35:31] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[01:35:35] [Server thread/INFO]: Akukis was slain by cuycito
+[01:36:28] [Server thread/INFO]: Akukis was shot by Skeleton
+[01:38:21] [Server thread/INFO]: Akukis tried to swim in lava
+[01:39:03] [Server thread/INFO]: Akukis was slain by siganconsumiendo
+[01:43:48] [Server thread/INFO]: cuycito lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:43:48] [Server thread/INFO]: cuycito left the game
+[01:44:08] [Server thread/INFO]: cuycito[/172.29.54.93:49307] logged in with entity id 161736 at (-485.32122722906865, 14.0, -205.69999998807907)
+[01:44:08] [Server thread/INFO]: cuycito joined the game
+[01:44:18] [Server thread/INFO]: cuycito lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:44:18] [Server thread/INFO]: cuycito left the game
