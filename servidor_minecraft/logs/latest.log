@@ -14,3 +14,5 @@
 [15:40:24] [Server thread/INFO]: Done (1.926s)! For help, type "help" or "?"
 [15:41:58] [Server thread/INFO]: Akukis[/172.29.156.190:56380] logged in with entity id 175 at (-260.3897738962452, 69.0, 32.05122806561643)
 [15:41:58] [Server thread/INFO]: Akukis joined the game
+[16:16:18] [Server thread/INFO]: Akukis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:16:18] [Server thread/INFO]: Akukis left the game
