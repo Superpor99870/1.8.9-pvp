@@ -15,3 +15,5 @@
 [13:12:33] [Server thread/INFO]: Akukis[/172.29.156.190:61461] logged in with entity id 170 at (-299.30000001192093, 60.0, 61.523083856380374)
 [13:12:33] [Server thread/INFO]: Akukis joined the game
 [13:26:42] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[14:22:58] [Server thread/INFO]: Akukis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:22:58] [Server thread/INFO]: Akukis left the game
