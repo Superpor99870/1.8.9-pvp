@@ -1,14 +1,16 @@
-[13:11:35] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[13:11:35] [Server thread/INFO]: Loading properties
-[13:11:35] [Server thread/INFO]: Default game type: SURVIVAL
-[13:11:35] [Server thread/INFO]: Generating keypair
-[13:11:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:11:35] [Server thread/INFO]: Using epoll channel type
-[13:11:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:11:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:11:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:11:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:11:35] [Server thread/INFO]: Preparing level "world"
-[13:11:36] [Server thread/INFO]: Preparing start region for level 0
-[13:11:37] [Server thread/INFO]: Preparing spawn area: 56%
-[13:11:37] [Server thread/INFO]: Done (1.354s)! For help, type "help" or "?"
+[13:11:47] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[13:11:47] [Server thread/INFO]: Loading properties
+[13:11:47] [Server thread/INFO]: Default game type: SURVIVAL
+[13:11:47] [Server thread/INFO]: Generating keypair
+[13:11:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:11:47] [Server thread/INFO]: Using epoll channel type
+[13:11:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:11:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:11:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:11:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:11:48] [Server thread/INFO]: Preparing level "world"
+[13:11:49] [Server thread/INFO]: Preparing start region for level 0
+[13:11:50] [Server thread/INFO]: Preparing spawn area: 31%
+[13:11:50] [Server thread/INFO]: Done (2.025s)! For help, type "help" or "?"
+[13:12:33] [Server thread/INFO]: Akukis[/172.29.156.190:61461] logged in with entity id 170 at (-299.30000001192093, 60.0, 61.523083856380374)
+[13:12:33] [Server thread/INFO]: Akukis joined the game
